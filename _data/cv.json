@@ -1,67 +1,139 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Emre Akçam",
+    "email": "emreakcam0998@gmail.com",
+    "phone": "+49 1573 3818513",
+    "website": "https://emreakcam.github.io",
+    "summary": "M.Sc. Aerospace Engineering student at TUM with a B.Sc. in Mechanical Engineering from METU, focusing on flight dynamics, stability and control, and autonomous systems.",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "address": "Einsteinstrasse 3, Apt. 127",
+      "postalCode": "85748",
+      "city": "Garching b. München",
+      "countryCode": "DE",
+      "region": "Bavaria"
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "emreakcam",
+        "url": "https://github.com/emreakcam"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "name": "TÜBİTAK SAGE",
+      "position": "Opto-Mechatronics Engineer",
+      "startDate": "2023-07-15",
+      "endDate": "2024-03-01",
+      "summary": "3D design and technical drawings of related parts, system identification of missile seeker head systems, and hardware testing of systems.",
+      "location": "Ankara, Turkey",
+      "highlights": [
+        "Performed system identification of seeker head systems.",
+        "Designed mechanical components in 3D CAD.",
+        "Executed hardware tests for integrated systems."
+      ]
+    },
+    {
+      "name": "Turkish Aerospace Industries",
+      "position": "Working Student",
+      "startDate": "2022-11-15",
+      "endDate": "2023-05-30",
+      "summary": "Helicopter blade design, blade test analysis, and blade manufacturing support.",
+      "location": "Ankara, Turkey",
+      "highlights": [
+        "Contributed to helicopter blade design activities.",
+        "Supported test analysis and manufacturing processes."
+      ]
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "Technische Universität München",
+      "area": "M.Sc. Aerospace Engineering",
+      "studyType": "Master's degree",
+      "startDate": "2024-04-15",
+      "endDate": "",
       "gpa": null,
-      "courses": []
+      "courses": [
+        "Flight Dynamics, Stability and Control",
+        "Fundamentals of Flight Control",
+        "Advanced Control",
+        "Model Reference Adaptive Control",
+        "Optimal Control Lab",
+        "Helicopter Flight Dynamics",
+        "Helicopter Dynamics, Stability and Control",
+        "Aircraft Trajectory Optimization",
+        "MATLAB / Simulink for CAE",
+        "Analysis and Design of Composite Structures",
+        "Aircraft Performance",
+        "Aeroelasticity",
+        "UAS Flight Control Lab",
+        "Optimal Control and Decision Making",
+        "Nonlinear Flight Control",
+        "Introduction to ROS",
+        "Flight Propulsions 1 and Gas Turbines",
+        "German as a Foreign Language A1.1"
+      ]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "institution": "Middle East Technical University",
+      "area": "B.Sc. Mechanical Engineering",
+      "studyType": "Bachelor's degree",
+      "startDate": "2017-10-01",
+      "endDate": "2023-09-16",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
+  "skills": [
+    {
+      "name": "Flight and Control",
+      "level": "",
+      "keywords": [
+        "Flight simulations",
+        "Flight mechanics",
+        "Flight control"
+      ]
+    },
+    {
+      "name": "Software and Tools",
+      "level": "",
+      "keywords": [
+        "MATLAB",
+        "Simulink",
+        "ROS",
+        "Python",
+        "C++",
+        "Version control (Git)",
+        "Raspberry Pi",
+        "Arduino"
+      ]
+    },
+    {
+      "name": "CAD and Design",
+      "level": "",
+      "keywords": [
+        "Siemens NX",
+        "Onshape",
+        "3D printing (Bambu Studio)"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Turkish",
+      "fluency": "Mother tongue"
+    },
+    {
+      "language": "English",
+      "fluency": "C1"
+    },
+    {
+      "language": "German",
+      "fluency": "A2"
+    }
+  ],
   "interests": [],
   "references": [],
   "publications": [
